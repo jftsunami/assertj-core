@@ -17,6 +17,7 @@ module org.assertj.core {
   exports org.assertj.core.api.exception;
   exports org.assertj.core.api.filter;
   exports org.assertj.core.api.iterable;
+  exports org.assertj.core.api.junit.jupiter;
   exports org.assertj.core.api.recursive.comparison;
   exports org.assertj.core.condition;
   exports org.assertj.core.configuration;
